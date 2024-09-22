@@ -17,7 +17,7 @@
     },
     "homepage": "https://github.com/JorgeFrancoIbanez/PerformanceServerTest",
     "dependencies": {
-        "body-parser": "1.7.0",
+        "body-parser": "1.20.3",
         "express": "^4.8.7",
         "sync-request": "^4.0.2",
         "node-fetch": "^2.6.0",
